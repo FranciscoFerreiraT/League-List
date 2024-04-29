@@ -21,19 +21,19 @@ Una lista de herramientas que interactúan con las APIs de League of Legends.
 
 ## Aplicaciones
 
-* [Amigos de Amumu](https://github.com/rico-vz/Amumus-Friends) - Exporta e importa tus amigos de League of Legends.
+* [Amumus-Friends](https://github.com/rico-vz/Amumus-Friends) - Exporta e importa tus amigos de League of Legends.
 * [OU.GG](https://github.com/FranciscoFerreiraT/OU.GG) - Pagina en creacion de busqueda de estadisticas.
-* [Campanas Antiguas](https://github.com/ulgg/ancient-chimes) - Exporta tu lista de amigos a un archivo de texto.
-* [Zona ARAM](https://aram.zone/) - Sitio web enfocado en ARAM que ofrece construcciones detalladas para cada campeón, listas de niveles e historial de partidas.
-* [App Blitz](https://blitz.gg/) - Asistente todo en uno que provee información sobre el equipo, importa runas y construcciones de objetos.
+* [ancient-chimes](https://github.com/ulgg/ancient-chimes) - Exporta tu lista de amigos a un archivo de texto.
+* [ARAM zone](https://aram.zone/) - Sitio web enfocado en ARAM que ofrece construcciones detalladas para cada campeón, listas de niveles e historial de partidas.
+* [Blitz](https://blitz.gg/) - Asistente todo en uno que provee información sobre el equipo, importa runas y construcciones de objetos.
 * [ChampR](https://github.com/cangzhang/champ-r) - Genera automáticamente recomendaciones de construcciones para campeones y muestra y aplica listas de runas.
 * [Crescendo](https://github.com/molenzwiebel/crescendo) - Permite silenciar el sonido molesto PHOOOOM cuando aceptas el juego.
-* [Vínculo Oscuro](https://github.com/s-coimbra21/dark-binding-gui) - Gestiona tus atajos de teclado según el campeón seleccionado.
-* [Engañar](https://github.com/molenzwiebel/Deceive) - Oculta tu estado en línea.
-* [Desencantador](https://github.com/marvinscham/disenchanter) - Desencanta en masa botines como fragmentos de campeón, fragmentos de piel, y más.
-* [Amigos Hextech](https://hextechfriends.github.io/) - Permite invitar a muchas personas de una vez.
-* [Insertar Misión Aquí](https://github.com/Earleking/2018-Riot-API-Challenge) - Crea misiones personalizadas para clubs.
-* [Fanático de la Liga](https://github.com/league-fan/league-fan.github.io) - Sitio web para previsualizar íconos de invocador de League of Legends, emotes y otros.
+* [dark-binding-gui](https://github.com/s-coimbra21/dark-binding-gui) - Gestiona tus atajos de teclado según el campeón seleccionado.
+* [Deceive](https://github.com/molenzwiebel/Deceive) - Oculta tu estado en línea.
+* [disenchanter](https://github.com/marvinscham/disenchanter) - Desencanta en masa botines como fragmentos de campeón, fragmentos de piel, y más.
+* [Hextech Friends](https://hextechfriends.github.io/) - Permite invitar a muchas personas de una vez.
+* [Insert mission here](https://github.com/Earleking/2018-Riot-API-Challenge) - Crea misiones personalizadas para clubs.
+* [league-fan.github.io](https://github.com/league-fan/league-fan.github.io) - Sitio web para previsualizar íconos de invocador de League of Legends, emotes y otros.
 * [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) - Programa ligero que graba automáticamente partidas de LoL y guarda los momentos más importantes del juego.
 
 ## Aplicaciones Externas
@@ -44,8 +44,8 @@ Una lista de herramientas que interactúan con las APIs de League of Legends.
 
 ## Creación de Contenido
 
-* [Director de Liga](https://github.com/RiotGames/leaguedirector) - Herramienta oficial para crear repeticiones avanzadas de League of Legends.
-* [Suite del Creador](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) - Herramienta de SkinSpotlights hecha para la API de Replay.
+* [leaguedirector](https://github.com/RiotGames/leaguedirector) - Herramienta oficial para crear repeticiones avanzadas de League of Legends.
+* [CreatorSuite-ReplayAPI](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) - Herramienta de SkinSpotlights hecha para la API de Replay.
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) - Interfaz de usuario web para mostrar selecciones y prohibiciones de campeones en torneos.
 
 ## Herramientas para Desarrolladores
