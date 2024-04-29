@@ -72,6 +72,6 @@ Una lista de herramientas que interactúan con las APIs de League of Legends.
 
 ## Herramientas de DevOps
 
-* [Configurar Cliente de Liga](https://github.com/marketplace/actions/setup-league-client) - Una acción de GitHub para configurar LCU en un ejecutador de Windows.
-* [Descargar Data Dragon de League of Legends](https://github.com/marketplace/actions/download-league-of-legends-data-dragon) - Una acción de GitHub para descargar el Data Dragon en un ejecutador.
-* [Obtener Parche de Liga](https://github.com/marvinscham/get-league-patch) - Una acción de GitHub que guarda el último parche en una variable.
+* [Setup League Client](https://github.com/marketplace/actions/setup-league-client) - Una acción de GitHub para configurar LCU en un ejecutador de Windows.
+* [Download League of Legends Data Dragon](https://github.com/marketplace/actions/download-league-of-legends-data-dragon) - Una acción de GitHub para descargar el Data Dragon en un ejecutador.
+* [get-league-patch](https://github.com/marvinscham/get-league-patch) - Una acción de GitHub que guarda el último parche en una variable.
