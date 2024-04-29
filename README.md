@@ -24,15 +24,15 @@ Una lista de herramientas que interactúan con las APIs de League of Legends.
 * [Amumus-Friends](https://github.com/rico-vz/Amumus-Friends) - Exporta e importa tus amigos de League of Legends.
 * [OU.GG](https://github.com/FranciscoFerreiraT/OU.GG) - Pagina en creacion de busqueda de estadisticas.
 * [ancient-chimes](https://github.com/ulgg/ancient-chimes) - Exporta tu lista de amigos a un archivo de texto.
-* [ARAM zone](https://aram.zone/) - Sitio web enfocado en ARAM que ofrece construcciones detalladas para cada campeón, listas de niveles e historial de partidas.
+* [ARAM zone](https://aram.zone/) - Sitio web enfocado en ARAM que ofrece builds detalladas para cada campeón, listas de niveles e historial de partidas.
 * [Blitz](https://blitz.gg/) - Asistente todo en uno que provee información sobre el equipo, importa runas y construcciones de objetos.
 * [ChampR](https://github.com/cangzhang/champ-r) - Genera automáticamente recomendaciones de construcciones para campeones y muestra y aplica listas de runas.
 * [Crescendo](https://github.com/molenzwiebel/crescendo) - Permite silenciar el sonido molesto PHOOOOM cuando aceptas el juego.
 * [dark-binding-gui](https://github.com/s-coimbra21/dark-binding-gui) - Gestiona tus atajos de teclado según el campeón seleccionado.
 * [Deceive](https://github.com/molenzwiebel/Deceive) - Oculta tu estado en línea.
-* [disenchanter](https://github.com/marvinscham/disenchanter) - Desencanta en masa botines como fragmentos de campeón, fragmentos de piel, y más.
+* [disenchanter](https://github.com/marvinscham/disenchanter) - Desencanta en masa botines como fragmentos de campeón, fragmentos de piel, y más(muy util).
 * [Hextech Friends](https://hextechfriends.github.io/) - Permite invitar a muchas personas de una vez.
-* [Insert mission here](https://github.com/Earleking/2018-Riot-API-Challenge) - Crea misiones personalizadas para clubs.
+* [Insert mission here](https://github.com/Earleking/2018-Riot-API-Challenge) - Crea misiones personalizadas.
 * [league-fan.github.io](https://github.com/league-fan/league-fan.github.io) - Sitio web para previsualizar íconos de invocador de League of Legends, emotes y otros.
 * [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) - Programa ligero que graba automáticamente partidas de LoL y guarda los momentos más importantes del juego.
 
@@ -40,7 +40,7 @@ Una lista de herramientas que interactúan con las APIs de League of Legends.
 
 * [Elo.rip](https://elo.rip/) - Un randomizador caótico de campeones.
 * [Heimerdinger.lol](https://heimerdinger.lol/) - Sitio web dedicado a proporcionar información sobre League of Legends, como rotaciones de ofertas, emotes y más.
-* [Skin Explorer](https://www.skinexplorer.lol) - Navega por el arte de las splash de League of Legends desde tu navegador.
+* [Skin Explorer](https://www.skinexplorer.lol) - Navega por el arte de los splasharts de League of Legends desde tu navegador.
 
 ## Creación de Contenido
 
